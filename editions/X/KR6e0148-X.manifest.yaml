@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6e0148/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0148/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴念佛三昧論
+  identifiers:
+    krp: KR6e0148
+    cbeta: X58n1030
+    cbeta_old_id: X58n1030
+    authorityid: CA0001441
+    json_key: X1030
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1030.xml
+    old_id: X58n1030
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0148_000-X.yaml, hash: 'sha256:3d77754d99f9852ed4884eb985a2b91dc3a6fac7fe4df135cf07f74f98b601e6'}
+  - {seq: 1, filename: KR6e0148_001-X.yaml, hash: 'sha256:cf2aef279631d211c359cad635a0ee43d39fae198822c166d9034ce04d9611ab'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0148_000-X.markers.yaml, hash: 'sha256:bca4e512b4605302eb67a5f22b70009806f12b43f9a0fae06f66d808aef77df3'}
+  - {seq: 1, role: markers, filename: assets/KR6e0148_001-X.markers.yaml, hash: 'sha256:70bcd93670ae30bde2f593d34d85f4a05aaf5407f2dc65f157eb3c241a3f246e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0148_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1030-A 華嚴念佛三昧論敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6029
+  label: 華嚴念佛三昧論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-2
+    span:
+    - body
+    - 183
+    - 183
+  label: 一念佛法身直指眾生自性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-3
+    span:
+    - body
+    - 934
+    - 934
+  label: 二念佛功德出生諸佛報化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-4
+    span:
+    - body
+    - 2198
+    - 2198
+  label: 三念佛名字成就最勝方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-5
+    span:
+    - body
+    - 2825
+    - 2825
+  label: 四念毗盧遮那佛頓入華嚴法界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-6
+    span:
+    - body
+    - 3570
+    - 3570
+  label: 五念極樂世界阿彌陀佛圓滿普賢大願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0148_X_001-mulu-7
+    span:
+    - body
+    - 4335
+    - 4335
+  label: 問答
+  type: mulu
+  level: 1
+hash: sha256:d4381dec53a0e29adcfc93d705f43fbacc6340d37c7cf39fa825966b56566136
