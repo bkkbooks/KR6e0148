@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0148_000.yaml, hash: 'sha256:4bd8d8def137d9dd55aa65c6df43af141c55cb1d7aa68de303eebb8f496b4128'}
+  - {seq: 0, filename: KR6e0148_000.yaml, hash: 'sha256:7db4f91b7305170db7dfc9ae7d18389ccbd11a3c72deef59f42be3ff6d74f0ad'}
   - {seq: 1, filename: KR6e0148_001.yaml, hash: 'sha256:fbcaef5ecfd0bdd0357a02f15e3d80b09a16597bb35b2b876bf66358993e6e64'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0148_000.markers.yaml, hash: 'sha256:3bb12d6cf7c69e993d0362f1d438842974f0c47f8b257b77538eafcb66f28704'}
+  - {seq: 0, role: markers, filename: assets/KR6e0148_000.markers.yaml, hash: 'sha256:b06b28321efff07469f3f1191e2371a8b244f00c9e67f16e3fa926781a505a40'}
   - {seq: 1, role: markers, filename: assets/KR6e0148_001.markers.yaml, hash: 'sha256:55ae247dcf9435776f58e7cf72742eba77189de49d70126e2367fdb470ceac5c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0148_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1030-A 華嚴念佛三昧論敘
@@ -117,7 +117,7 @@ table_of_contents:
   label: 問答
   type: mulu
   level: 1
-hash: sha256:161d9a7445a10fa3b9c6bf0f2ee7af84b2c1dc4f851d6a2077b4ca20612950b5
+hash: sha256:b7f92019965ed0ec19d497b4c44ae42e3b4f06c8cbaa1b85e1437db6ee96e99b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
